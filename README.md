@@ -4,9 +4,9 @@
 ## Description
 
 - This project is to display my Portfolio.
-- 
+
 - I built this so i can begin creating and adding my work/experience to show potential employers.
-- 
+
 - I learned in doing this project how to deploy a webpage style Portfolio with HTML?CSS> 
 
 ## Usage
