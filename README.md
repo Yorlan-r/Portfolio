@@ -12,6 +12,10 @@
 ## Usage
 
 ![Capture](https://user-images.githubusercontent.com/106920094/186788272-3dd41e92-d931-4e0a-808c-334d8b3fe9f9.PNG)
+![Capture2](https://user-images.githubusercontent.com/106920094/186788648-e5152def-c0b6-42b5-af96-320c8ee1d1a4.PNG)
+![Capture3](https://user-images.githubusercontent.com/106920094/186788654-bfef1874-bbdf-4617-bdd3-7fb4fdc246f0.PNG)
+![Capture4](https://user-images.githubusercontent.com/106920094/186788658-904ab88f-10c9-44d4-a59a-1013f44546be.PNG)
+
    
 ## Credits
 
